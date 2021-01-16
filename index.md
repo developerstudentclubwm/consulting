@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Mindversity App Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/developerstudentclubwm/consulting/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit the “MindVersity” app.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## PERSONAL INFORMATION WE COLLECT
 
-### Markdown
+When you visit the App and login through Google, we automatically collect certain information about your device, known as your API key. This is used to determine whether you have previously created a profile and to identify your profile on the app if you are a Peer Advocate (Mentor). Additionally, if you are a Peer Advocate, we collect information that you share in order to set up and edit your profile including your name, campus, biography, icon, and filters.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Conversations will be stored through Google Hangouts and will not be accessible by MindVersity. Please read Google privacy policy when you login through Hangouts.
 
-```markdown
-Syntax highlighted code block
+This device uses no tracking technology.
 
-# Header 1
-## Header 2
-### Header 3
+This app does not require nor offer any purchases, and thus does not store any information pertaining to such.
 
-- Bulleted
-- List
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Profile Information.
 
-1. Numbered
-2. List
+## HOW DO WE USE YOUR PERSONAL INFORMATION?
 
-**Bold** and _Italic_ and `Code` text
+We use the Profile Information that we collect generally to update and display Peer Advocates’ information to themselves and peers who would like to communicate with mentors.
 
-[Link](url) and ![Image](src)
-```
+We use the Device Information that we collect to connect your Google account with the profile created through the app, if a Peer Advocate.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## SHARING YOUR PERSONAL INFORMATION
 
-### Jekyll Themes
+A select few of MindVersity board members will have access to FireStore containing your Profile Information connected to your API key. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/developerstudentclubwm/consulting/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-### Support or Contact
+## DATA RETENTION
+When you create a profile through the App, we will maintain your Profile Information for our records unless and until you contact MindVersity to delete this information.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## INTENDED USERS
+The MindVersity app is intended for college and university students in the United States.
+
+## CHANGES
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+## CONTACT US
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact MindVersity by email at mindversityorg@gmail.com.
