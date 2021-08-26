@@ -1,4 +1,4 @@
-## MindVersity App Privacy Policy
+## MINDVERSITY APP PRIVACY POLICY
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit the “MindVersity” app.
 
